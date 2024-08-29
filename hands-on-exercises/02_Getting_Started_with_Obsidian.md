@@ -4,7 +4,7 @@
 
 Go to **Settings** → **Appearance** → First line **Base color scheme**. Change it into "dark", "light" or "adapt to system".
 
-## 2. Create Your First Note
+## 2. Create Your First Note about Markdown Syntax
 
 ![screenshot_create_a_note](https://github.com/user-attachments/assets/002fdb6c-8e07-4a77-b7e2-0e6a77eeb7af)
 
@@ -26,7 +26,7 @@ Click on the icon to create a new note. Rename the note to "Markdown Syntax". Co
       - **Checkbox**: Use `- [ ]` for checkboxes. You can check them by clicking in the box.
 
 
-## 3. Create a Note: "CHANGELOG"
+## 3. Create the Note "CHANGELOG"
 
 - [ ] Create a note and name it "CHANGELOG".
 

@@ -12,7 +12,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 Click on the icon to create a new note. Rename the note to "Markdown Syntax". Copy and add the following to this note:
 
 
-      Markdown is a lightweight markup language used to create formatted text using a plain-text editor. It was created by John Gruber in 2004 with the goal of making text easy to read and write, especially for web content. Markdown syntax is simple and intuitive, using punctuation characters to format text, such as asterisks for emphasis and pound signs for headings. It is not a replacement for HTML but rather a writing format that can be converted to HTML.
+      *Markdown is a lightweight markup language used to create formatted text using a plain-text editor. It was created by John Gruber in 2004 with the goal of making text easy to read and write, especially for web content. Markdown syntax is simple and intuitive, using punctuation characters to format text, such as asterisks for emphasis and pound signs for headings. It is not a replacement for HTML but rather a writing format that can be converted to HTML.*
       
       ### Markdown Syntax
       

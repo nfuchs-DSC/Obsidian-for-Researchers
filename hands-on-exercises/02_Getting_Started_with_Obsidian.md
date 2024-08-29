@@ -6,7 +6,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 ## 2. Create Your First Note
 
-![Design ohne Titel (3).png](path/to/image) <!-- Replace with actual image path -->
+[Screenshot](obsidian/images/screenshot_create_a_note.png)
 
 Click on the icon to create a new note. Rename the note to "Basic Markdown Syntax". Copy and add the following to this note:
 

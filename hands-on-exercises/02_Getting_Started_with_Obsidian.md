@@ -6,7 +6,8 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 ## 2. Create Your First Note
 
-[Screenshot](screenshot_create_a_note.png)
+![screenshot_create_a_note](https://github.com/user-attachments/assets/002fdb6c-8e07-4a77-b7e2-0e6a77eeb7af)
+
 
 Click on the icon to create a new note. Rename the note to "Basic Markdown Syntax". Copy and add the following to this note:
 

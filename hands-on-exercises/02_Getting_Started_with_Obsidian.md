@@ -28,25 +28,22 @@ Click on the icon to create a new note. Rename the note to "Markdown Syntax". Co
 
 ## 3. Create the Note "CHANGELOG"
 
-- [ ] Create a note and name it "CHANGELOG".
+*In computer science, a document that is used to document changes in a script or code is often referred to as a "changelog". A changelog is a file that contains a chronological list of changes, improvements, bug fixes, and other modifications made to a project. It helps you track the development history and progress of your obsidian vault and prevents you from fixing a bug twice. Often, you may forget how you did it the first time.*
+- Create a note and name it "CHANGELOG".
 
-In computer science, a document that is used to document changes in a script or code is often referred to as a "changelog". A changelog is a file that contains a chronological list of changes, improvements, bug fixes, and other modifications made to a project. It helps you track the development history and progress of your vault and prevents you from fixing a bug twice. Often, you may forget how you did it the first time.
+## 4. Create the Folder "ATTACHMENT"
 
-- [ ] Copy the following Changelog into the note:
+Create a folder and name it "ATTACHMENT". 
 
----
+*All attachments that you insert into a note should be collected here.* 
 
-- [ ] "Nele": Create Changelog: Date and details of changes made to the vault.
+To adjust this, go to **Settings**, select **Files and Links** from the menu, and change the settings as shown in the image. 
 
----
+*Now, all your attachments will be automatically saved in this folder.*
 
-## 4. Create a Folder
+![screenshot_attachment_folder_path](https://github.com/user-attachments/assets/72f1bd2c-6e50-446e-9bf1-0e13682d231b)
 
-- [ ] Create the folder "ATTACHMENT".
-
-All attachments that you insert into a note should be collected here. To adjust this, go to **Settings**, select **Files and Links** from the menu, and change the settings as shown in the image. Now, all your attachments will be automatically saved in this folder.
-
-![Pasted image 20240809093237.png](path/to/image) <!-- Replace with actual image path -->
+Check if it works by creating a note and inserting an image or a PDF document from your local computer into the note using drag and drop (or copy and paste). The image/PDF should now be saved in the 'ATTACHMENT' folder.
 
 ## Daily Workflow
 

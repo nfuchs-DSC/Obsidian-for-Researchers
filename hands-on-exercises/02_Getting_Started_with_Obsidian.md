@@ -44,24 +44,3 @@ To adjust this, go to **Settings**, select **Files and Links** from the menu, an
 ![screenshot_attachment_folder_path](https://github.com/user-attachments/assets/72f1bd2c-6e50-446e-9bf1-0e13682d231b)
 
 Check if it works by creating a note and inserting an image or a PDF document from your local computer into the note using drag and drop (or copy and paste). The image/PDF should now be saved in the 'ATTACHMENT' folder.
-
-## Daily Workflow
-
-The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base.
-
-- [ ] Create a folder "DAILY NOTES".
-- [ ] Create a folder "TEMPLATES".
-- [ ] Create a note named "Template_Daily_Note".
-- [ ] Change settings for Daily Notes, using the template, and save it in "Daily Notes".
-- [ ] Turn on **Community Plugins**.
-- [ ] Install **Templater** and enable it.
-- [ ] In settings, set the **Template folder location** to "TEMPLATES" and turn on **Trigger Templater on new file creation**.
-- [ ] Install and enable **Tasks** and **Dataview**.
-- [ ] In **Dataview**, enable JavaScript queries and inline JavaScript queries.
-
-### Plugins
-
-Consider installing the following plugins:
-- Calendar
-- Reminders
-- Templates

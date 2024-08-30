@@ -41,28 +41,94 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 <br>
 </details>
 
-## Installing Community Plugins for your Daily Workflow
+## Install Community Plugins for your Daily Workflow
 
 1. Enable the community plugins: **Settings** → Click **Turn on community plugins**
 2. Click **Browse** → search for the plugin "Dataview by Michael Brenan" → install the plugin
 3. Enable the dataview plugin: go back to **settings** menu item **community plugin** → activate it by clicking on the slider in the line of the newly installed plugin
 4. Repeate this for the community plugins **"Tasks by Clare Macrae and Ilyas Landikov"** and **"Templater by SilentVoid"**
 
+## Create folder and notes for your Daily Workflow
 
-- [ ] Create a folder "DAILY NOTES".
-- [ ] Create a folder "TEMPLATES".
-- [ ] Create a note named "Template_Daily_Note".
-- [ ] Change settings for Daily Notes, using the template, and save it in "Daily Notes".
-- [ ] Turn on **Community Plugins**.
-- [ ] Install **Templater** and enable it.
-- [ ] In settings, set the **Template folder location** to "TEMPLATES" and turn on **Trigger Templater on new file creation**.
-- [ ] Install and enable **Tasks** and **Dataview**.
-- [ ] In **Dataview**, enable JavaScript queries and inline JavaScript queries.
+*Of course, you can also use other names and terms for the folders and notes. The important thing is that you don't change the names anymore.*
 
-### Plugins
+1. Create a folder "DAILY NOTES".
+2. Create a folder "TEMPLATE".
+3. Create a note "Template_Daily_Note" and drag and drop it into the TEMPLATE folder.
+4. Copy and paste the following in the "Template_Daily_Note". It saves automaticaly.
 
-Consider installing the following plugins:
-- Calendar
-- Reminders
-- Templates
+         #### Date: <% tp.date.now("dddd Do MMMM YYYY") %>
+         
+         
+         # Daily Log
+         
+         *Documentation of Activities, focus for today, accomplishments or important insights etc.*
+         
+         # Tasks
+         
+         #### New
+         *Note here the tasks which will meet you on this day and tag it with a date*
+         
+         #### Done Today
+         *Here will every tasks listed which are done today.*
+         ```tasks
+         # done today, from filename
+         done on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+         ```
+         
+         #### Due Today 
+         *The due date is the specific date by which a task must be completed. It signifies a deadline for the task.* 
+         ```tasks
+         not done
+         is not recurring
+         # due today, from filename
+         due on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+         hide due date
+         ```
+         
+         #### Scheduled Today
+         *The schedule date refers to when a task is planned to be worked on or started. This date does not necessarily indicate a deadline but rather a target date for when the task should be tackled.* 
+         ```tasks
+         not done
+         is not recurring
+         # scheduled today, from filename
+         scheduled on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+         hide scheduled date
+         ```
+         
+         #### Recurring today
+         *A recurring task is a task that is automatically generated to repeat at regular intervals, such as daily, weekly, monthly, or yearly.* 
+         ```tasks
+         not done
+         is recurring
+         # happens today, from filename
+         happens on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+         ```
+         
+         #### Overdue tasks
+         *Tasks that have a due date in the past but are still incomplete could be considered overdue. This term emphasizes that the task should have been completed by the specified date.*
+         
+         ```tasks
+         not done
+         # happens before today, from filename
+         happens before <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+         hide edit button
+         ```
+         
+         #### Backlogged tasks
+         *These tasks are waiting to be adressed, their important enough so you don't want to forget them. But not that time spcific, that you have to do it until a specific time. Here I am also collection ideas which are waiting for the right timing.*
+         ```tasks
+         not done
+         no due date
+         no scheduled date
+         no start date
+         ```
+             
+## Settings in the community plugins
+   
+1. **Settings** → **Templater** → set **Template folder location** to "TEMPLATES" → and turn on **Trigger Templater on new file creation**
+3. **Settings** → **Dataview** → enable **Enable JavaScript queries** and **Enable inline JavaScript queries**
+4. **Settings** → go to **Daily notes** → set **New file location** to "DAILY NOTE" → set **Template file location** to "TEMPLATES/Template_Daily Note" (*This is the path to the template you just created.*)
 
+## Check that everything is working
+*Now you finished all settings for your daily workflow. Check if everythings works quite well.* **Go to you vault and click on the left sidebar on the calendar icon (daily note). Then a note with the template should open with the today date.** *In the next manual there are some tips how you can use the daily note in your workflow.*

@@ -6,7 +6,7 @@
 
 *For our daily workflow, we need to add a few functions to our Obsidian Vault. We do this with plugins created by the Obsidian Community: The so-called community plugins*
 
-## Installing Communitiy Plugin
+## Communitiy Plugin
 *Community plugins in Obsidian are user-created extensions that enhance the functionality of the app beyond its core features. These plugins are developed by members of the Obsidian community, allowing users to customize and expand their note-taking experience to suit individual needs and workflows.*
 
 <details>
@@ -40,6 +40,13 @@ To assess the safety and reliability of a community plugin, consider the followi
 Remember, Obsidian keeps community plugins disabled by default ("restricted mode"). You must manually enable them, which serves as a built-in safety measure.
 <br>
 </details>
+
+## Installing Community Plugins for your Daily Workflow
+
+1. Enable the community plugins: **Settings** → Click **Turn on community plugins**
+2. Click **Browse** → search for the plugin "Dataview by Michael Brenan" → install the plugin
+3. Enable the dataview plugin: go back to **settings** menu item **community plugin** → activate it by clicking on the slider in the line of the newly installed plugin
+4. Repeate this for the community plugins **"Tasks by Clare Macrae and Ilyas Landikov"** and **"Templater by SilentVoid"**
 
 
 - [ ] Create a folder "DAILY NOTES".

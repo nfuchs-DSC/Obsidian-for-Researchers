@@ -1,6 +1,6 @@
 ## Daily Workflow
 
-*The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base. Here you can take notes, add new To-Dos, and automatically display To-Dos that you want or need to complete today. There are many ways to design the Daily Note. For guidance, I have created a minimalist template that primarily organizes To-Dos and can interconnect your knowledge. With a bit of programming experience or patience, you can customize the template to your liking.*
+*The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base. Here you can take notes, add new To-Dos, and automatically display To-Dos that you want or need to complete today. There are many ways to design the Daily Note. For guidance, I have created a minimalist template that primarily organizes To-Dos and can interconnect your knowledge. With a bit of programming experience or patience, you can customize the template to your liking. It is written in JavaScript and markdown syntax.*
 
 *You can access the Daily note either by clicking on the calendar button in the left taskbar, or you can set it up in the settings so that the Daily note automatically opens when you open your Obsidian vault.*
 

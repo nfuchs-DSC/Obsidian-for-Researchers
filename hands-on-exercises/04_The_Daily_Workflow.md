@@ -12,7 +12,9 @@ With the template I proposed for a Daily Note, you can implement the following t
 ---
 
 ### Scenario-Based Learning: Navigating Your Daily Note Experience
-*Feel free to develop your own scenarios tailored to the unique demands of your daily tasks. If none of these scenarios resonate with you, take a moment to reflect on your daily workflows. Write down your thoughts and consider potential tools, such as task organization systems, that could enhance your productivity in your everyday work.*
+*With these exercises, I aim to provide you with practical experience in using the Daily Note effectively.*
+
+*If none of these scenarios resonate with you, take a moment to reflect on your daily workflows: Write down your thoughts and consider potential tools that could enhance your productivity in your everyday work.*
 
 1. 
 

@@ -39,7 +39,16 @@ Again an auto-suggest menu should appear. If recurring is not provided in the au
 
 #### 2. Your meeting begins.
 *Note: Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week.*
-2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under New: - [ ] Write email to cooperation partner, see template [Insert link to document in your cloud] and select due date and next Monday in the auto-suggest menu.
+2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under **New**: 
 
-2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **New** your idea and link it to your idea collection of the Publikation: - Introduction: sunflowers, interview, newspaper [[Ideas collection Publication 3]]
+         - [ ] Write email to cooperation partner, see [Template](Insert link to document in your team cloud) 
+         
+Select due date and next Monday in the auto-suggest menu.
+
+2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **New** your idea and link it to your idea collection of the Publikation: 
+
+         - Introduction: sunflowers, interview, newspaper [[Ideas collection Publication 3]]
+         
 A new function is used here. With double square brackets [[ ]], you can link one note to another. More on this will be covered in the next exercise.
+
+## Compare your daily note with this screenshot. Is it the same? Go to the next exercise. If not: find the mistake / ask for help.

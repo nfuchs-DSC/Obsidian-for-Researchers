@@ -53,7 +53,10 @@ A new function is used here. With double square brackets [[ ]], you can link one
 
 ## Compare your daily note with this screenshot. 
 → Is it the same (you will have different dates)? Go to the next exercise. 
+
 → If not: find the mistake / ask for help.
+
+
 
 ![image](https://github.com/user-attachments/assets/2ce34f53-7adb-4196-8593-b53e636b4b56)
 

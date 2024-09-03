@@ -16,13 +16,14 @@ With the template I proposed for a Daily Note, you can implement the following t
 
 *If none of these scenarios resonate with you, take a moment to reflect on your daily workflows: What are typical scenarios in your daily work? How can the daily note help you?*
 
-##### Your workday begins. You have a few moments before your first meeting to check your emails. Most of them are not relevant to you.
-1. However, you receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: - [ ] Check literature https://ieeexplore.ieee.org/abstract/document/6248092
+#### Your workday begins. You have a few moments before your first meeting to check your emails. Most of them are not relevant to you.
+1. However, you receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: - [ ] Check literature https://ieeexplore.ieee.org/abstract/document/6248092 <br>
     An auto-suggest menu should automatically appear in the line, where you can select due date and then type or select today's date.
-   The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.
+   ![image](https://github.com/user-attachments/assets/4f1203f0-a226-4098-ba12-18af8237a959)
 
-   
-1.2 Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: - Water Semi's plants. If recurring is not provided in the auto-suggest menu, type recurring and it will appear. Choose how often the task should recur and then the start date. This way, the task will be displayed every Wednesday.
+   The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.
+ 
+2. Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: - Water Semi's plants. If recurring is not provided in the auto-suggest menu, type recurring and it will appear. Choose how often the task should recur and then the start date. This way, the task will be displayed every Wednesday.
 Your meeting begins.
 2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under New: - [ ] Write email to cooperation partner, see template Insert link to document in your cloud and select next Monday in the auto-suggest menu.
 2.2 You digress from the topic, and a colleague tells you about an exciting project that's working on similar questions to yours. You'll have time to look into the project in more detail on Friday. Enter it under New.

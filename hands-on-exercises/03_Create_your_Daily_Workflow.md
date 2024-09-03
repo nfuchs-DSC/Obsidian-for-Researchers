@@ -1,6 +1,6 @@
 ## Daily Workflow
 
-*The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base. Here you can take notes, add new To-Dos, and automatically display To-Dos that you want or need to complete today. There are many ways to design the Daily Note. For guidance, I have created a minimalist template that primarily organizes To-Dos and can interconnect your knowledge. With a bit of programming experience or patience, you can customize the template to your liking. It is written in JavaScript and markdown syntax.*
+*The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base. Here you can take notes, add new To-Dos, and automatically display To-Dos that you want or need to complete today. There are many ways to design the Daily Note. For guidance, I have created a minimalist template that primarily organizes To-Dos and can interconnect your knowledge. With a bit of programming experience or patience, you can customize the template to your liking.*
 
 *You can access the Daily note either by clicking on the calendar button in the left taskbar, or you can set it up in the settings so that the Daily note automatically opens when you open your Obsidian vault.*
 
@@ -44,7 +44,7 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 ## Install Community Plugins for your Daily Workflow
 
 1. Enable the community plugins: **Settings** → Click **Turn on community plugins**
-2. Click **Browse** → search for the plugin "Dataview by Michael Brenan" → install the plugin
+2. Click **Browse** → search for the plugin **"Dataview by Michael Brenan"** → install the plugin
 3. Enable the dataview plugin: go back to **settings** menu item **community plugin** → activate it by clicking on the slider in the line of the newly installed plugin
 4. Repeate this for the community plugins **"Tasks by Clare Macrae and Ilyas Landikov"** and **"Templater by SilentVoid"**
 
@@ -132,3 +132,10 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 
 ## Check that everything is working
 *Now you finished all settings for your daily workflow. Check if everythings works quite well.* **Go to you vault and click on the left sidebar on the calendar icon (daily note). Then a note with the template should open with the today date.** *In the next manual there are some tips how you can use the daily note in your workflow.*
+
+## Note
+There are documentations available for the *Community Plugins* and pre-installed *Core Plugins*. On these pages, you'll find all the features that come with each plugin. To reduce complexity, this guide only describes a small portion of the possibilities you have with the plugins. However, if you want to know more or have specific questions, you can read the documentations.
+
+[Tasks by Clare Macrae and Ilyas Landikov](https://publish.obsidian.md/tasks/Introduction
+[Templater by SilentVoid](https://silentvoid13.github.io/Templater/introduction.html)
+[Dataview by Michael Brenan](https://blacksmithgu.github.io/obsidian-dataview/)

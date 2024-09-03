@@ -16,15 +16,27 @@ With the template I proposed for a Daily Note, you can implement the following t
 
 *If none of these scenarios resonate with you, take a moment to reflect on your daily workflows: What are typical scenarios in your daily work? How can the daily note help you?*
 
-#### 1. Your workday begins. You have a few moments before your first meeting to check your emails. Most of them are not relevant to you.
-1.1 However, you receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: - [ ] Check literature https://ieeexplore.ieee.org/abstract/document/6248092 <br>
-    An auto-suggest menu should automatically appear in the line, where you can select due date and then type or select today's date.
-   ![image](https://github.com/user-attachments/assets/ea26c016-44fe-46f6-9941-01d028cdc455)
+#### 1. Your workday begins. You have a few moments before your first meeting to check your emails.
+1.1 You receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: 
+
+         - [ ] Check literature  [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/6248092)
+         
+An auto-suggest menu should automatically appear in the line, where you can select due date and then type or select today's date.
+   ![image](https://github.com/user-attachments/assets/ea26c016-44fe-46f6-9941-01d028cdc455) 
+   
 *Note: The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.*
-<br>
-1.2 Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: - [ ] Water Semi's plants
-    Again an auto-suggest menu should appear. If recurring is not provided in the auto-suggest menu, type recurring and it will appear. Choose how often the task should recur (every week) and then the start date (Wednesday). This way, the task will be displayed every Wednesday.
-<br>
+
+*Note: When you insert a link to a homepage from your browser's command line into a note in Obsidian, the application automatically generates Markdown syntax for the link. This syntax follows the format 
+[Title of Homepage)(URL). You have the option to change the title to better reflect the content of the link.*
+
+
+1.2 Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: 
+
+         - [ ] Water Semi's plants
+         
+Again an auto-suggest menu should appear. If recurring is not provided in the auto-suggest menu, type *recurring* and it will appear. Choose how often the task should recur (every week) and then the start date (Wednesday). This way, the task will be displayed every Wednesday.
+    
+
 #### 2. Your meeting begins.
 *Note: Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week.*
 2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under New: - [ ] Write email to cooperation partner, see template [Insert link to document in your cloud] and select due date and next Monday in the auto-suggest menu.

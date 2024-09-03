@@ -14,7 +14,18 @@ With the template I proposed for a Daily Note, you can implement the following t
 ### Scenario-Based Learning: Navigating Your Daily Note Experience
 *With these exercises, I aim to provide you with practical experience in using the Daily Note effectively.*
 
-*If none of these scenarios resonate with you, take a moment to reflect on your daily workflows: Write down your thoughts and consider potential tools that could enhance your productivity in your everyday work.*
+*If none of these scenarios resonate with you, take a moment to reflect on your daily workflows: What are typical scenarios in your daily work? How can the daily note help you?*
 
-1. 
+##### Your workday begins. You have a few moments before your first meeting to check your emails. Most of them are not relevant to you.
+1. However, you receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: - [ ] Check literature https://ieeexplore.ieee.org/abstract/document/6248092
+    An auto-suggest menu should automatically appear in the line, where you can select due date and then type or select today's date.
+   The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.
 
+   
+1.2 Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: - Water Semi's plants. If recurring is not provided in the auto-suggest menu, type recurring and it will appear. Choose how often the task should recur and then the start date. This way, the task will be displayed every Wednesday.
+Your meeting begins.
+2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under New: - [ ] Write email to cooperation partner, see template Insert link to document in your cloud and select next Monday in the auto-suggest menu.
+2.2 You digress from the topic, and a colleague tells you about an exciting project that's working on similar questions to yours. You'll have time to look into the project in more detail on Friday. Enter it under New.
+Note: Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week.
+2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under New: - Introduction newspaper article, interview [[Ideas collection Publication 3]]
+Note: A new feature is introduced here: links, backlinks

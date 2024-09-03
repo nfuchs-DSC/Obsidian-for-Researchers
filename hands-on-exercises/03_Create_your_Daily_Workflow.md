@@ -136,6 +136,8 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 ## Note
 There are documentations available for the *Community Plugins* and pre-installed *Core Plugins*. On these pages, you'll find all the features that come with each plugin. To reduce complexity, this guide only describes a small portion of the possibilities you have with the plugins. However, if you want to know more or have specific questions, you can read the documentations.
 
-[Tasks by Clare Macrae and Ilyas Landikov](https://publish.obsidian.md/tasks/Introduction
+[Tasks by Clare Macrae and Ilyas Landikov](https://publish.obsidian.md/tasks/Introduction)
+
 [Templater by SilentVoid](https://silentvoid13.github.io/Templater/introduction.html)
+
 [Dataview by Michael Brenan](https://blacksmithgu.github.io/obsidian-dataview/)

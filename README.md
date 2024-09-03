@@ -1,4 +1,4 @@
-# Obsidian for Researchers
-### Customizing Your Digital Research Assistant
+## Obsidian for Researchers
+#### Customizing Your Digital Research Assistant
 
 

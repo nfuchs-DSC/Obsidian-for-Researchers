@@ -37,13 +37,14 @@ Again an auto-suggest menu should appear. If recurring is not provided in the au
 
 #### 2. Your meeting begins.
 *Note: Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week.*
+
 2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under **New**: 
 
          - [ ] Write email to cooperation partner, see [Template](Insert link to document in your team cloud) 
          
 Select due date and next Monday in the auto-suggest menu.
 
-2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **New** your idea and link it to your idea collection of the Publikation: 
+2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **New** your idea and link it to a potential idea collection of the publication: 
 
          - Introduction: sunflowers, interview, newspaper [[Ideas collection Publication 3]]
          

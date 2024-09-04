@@ -1,5 +1,5 @@
 ## Obsidian for Researchers
-#### Customizing Your Digital Research Assistant
+### Customizing Your Digital Research Assistant
 
 ### My Obsidian Philosophy
 My approach is to start using the tool intuitively, allowing myself to embrace the inevitable messiness that comes with creativity. While establishing a structure is essential, I often find myself diving back into chaos, iterating on my ideas as they evolve. Obsidian can serve as your second brain, complementing the capabilities of your first brain. Ask yourself: In which areas can my first brain benefit from some assistance?

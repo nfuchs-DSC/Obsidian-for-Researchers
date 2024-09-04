@@ -16,10 +16,9 @@ The following exercise is an example that demonstrates how you can use the inter
   *A link titled "Object Category Recognition" should now appear. You'll notice that its color is lighter compared to the other links. This is because the note for this header hasn't been created yet.*
 
 2. **Click on the link**, and a new tab will open where Obsidian will automatically generate the note.
-3. Return to your **Daily Note** and create the note "Ideas Collection Publication 3" by clicking the link.
-4. 
-5. **Expand the right sidebar** → **click on backlinks** *Here, you can view all the backlinks to your note. Currently, you will see the mention in your daily note.*
-6. 
+3. **Expand the right sidebar** → **click on backlinks** *Here, you can view all the backlinks to your note. Currently, you will see the mention in your daily note.*
+4. You have read the article 
+5. Return to your **Daily Note** and create the note "Ideas Collection Publication 3" by clicking the link.
 
 
 ### Link to a Heading in an note

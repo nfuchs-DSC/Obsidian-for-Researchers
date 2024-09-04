@@ -1,10 +1,10 @@
 # Getting Started with Obsidian
 
-## 1. Change the Color of Your Vault
+## Change the Color of Your Vault
 
 Go to **Settings** → **Appearance** → First line **Base color scheme**. Change it into "dark", "light" or "adapt to system".
 
-## 2. Create Your First Note about Markdown Syntax
+## Create Your First Note about Markdown Syntax
 
 ![screenshot_create_a_note](https://github.com/user-attachments/assets/002fdb6c-8e07-4a77-b7e2-0e6a77eeb7af)
 
@@ -26,12 +26,12 @@ Click on the icon to create a new note. Rename the note to "Markdown Syntax". Co
       - **Checkbox**: Use `- [ ]` for checkboxes. You can check them by clicking in the box.
 
 
-## 3. Create the Note "CHANGELOG"
+## Create the Note "CHANGELOG"
 
 *In computer science, a document that is used to document changes in a script or code is often referred to as a "changelog". A changelog is a file that contains a chronological list of changes, improvements, bug fixes, and other modifications made to a project. It helps you track the development history and progress of your obsidian vault and prevents you from fixing a bug twice. Often, you may forget how you did it the first time.*
 - Create a note and name it "CHANGELOG".
 
-## 4. Create the Folder "ATTACHMENT"
+## Create the Folder "ATTACHMENT"
 
 Create a folder and name it "ATTACHMENT". 
 

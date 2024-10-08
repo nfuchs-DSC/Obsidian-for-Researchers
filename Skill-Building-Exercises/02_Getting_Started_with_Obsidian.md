@@ -32,6 +32,7 @@ Click on the icon to create a new note. Rename the note to "Markdown Syntax". Co
 
 *In computer science, a document that is used to document changes in a script or code is often referred to as a "changelog". A changelog is a file that contains a chronological list of changes, improvements, bug fixes, and other modifications made to a project. It helps you track the development history and progress of your obsidian vault and prevents you from fixing a bug twice. Often, you may forget how you did it the first time.*
 - Create a note and name it "CHANGELOG".
+- Insert the location ('path') here where you saved your Obsidian vault, e.g. C:\Users\name\Desktop\ObsidianLocal\MyVault
 
 ## Create the Folder "ATTACHMENT"
 

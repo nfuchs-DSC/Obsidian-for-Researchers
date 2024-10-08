@@ -32,4 +32,6 @@ Pets in Clothes: The research team found that one of the common issues with the 
 ### Linking a local file
 *It is also possible to write a link in a note in Obsidian that allows you to open a file from your computer. You need to insert the path to the file into the following link. You can find the path by right-clicking on the file and selecting "Copy Path".*
 
+```markdown
 [filename](file:///<absolute-path>)
+```

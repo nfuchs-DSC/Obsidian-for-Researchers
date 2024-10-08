@@ -138,6 +138,7 @@ no start date
 ## Change Log
 Insert the following text into your note 'CHANGELOG' and enter today's date.
 ```markdown
+### dd/mm/yyyy
 Installed community plugins Task, Templater and Dataview.
 The Daily Note now has a customized template.
 ```

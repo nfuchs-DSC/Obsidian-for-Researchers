@@ -58,72 +58,73 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 3. Create a note "Template_Daily_Note" and drag and drop it into the TEMPLATE folder.
 4. Copy and paste the following in the "Template_Daily_Note". It saves automaticaly.
 
-         #### Date: <% tp.date.now("dddd Do MMMM YYYY") %>
+````markdown
+#### Date: <% tp.date.now("dddd Do MMMM YYYY") %>
+
+# Daily Log
+
+*Documentation of Activities, focus for today, accomplishments or important insights etc.*
+
+# Tasks
+
+#### New
+*Note here the tasks which will meet you on this day and tag it with a date*
+
+#### Done Today
+*Here will every tasks listed which are done today.*
+```tasks
+# done today, from filename
+done on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+```
+ 
+#### Due Today 
+*The due date is the specific date by which a task must be completed. It signifies a deadline for the task.* 
+```tasks
+not done
+is not recurring
+# due today, from filename
+due on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+hide due date
+```
+
+#### Scheduled Today
+*The schedule date refers to when a task is planned to be worked on or started. This date does not necessarily indicate a deadline but rather a target date for when the task should be tackled.* 
+```tasks
+not done
+is not recurring
+# scheduled today, from filename
+scheduled on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+hide scheduled date
+```
+
+#### Recurring today
+*A recurring task is a task that is automatically generated to repeat at regular intervals, such as daily, weekly, monthly, or yearly.* 
+```tasks
+not done
+is recurring
+# happens today, from filename
+happens on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+```
+
+#### Overdue tasks
+*Tasks that have a due date in the past but are still incomplete could be considered overdue. This term emphasizes that the task should have been completed by the specified date.*
          
+```tasks
+not done
+# happens before today, from filename
+happens before <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
+hide edit button
+```
          
-         # Daily Log
-         
-         *Documentation of Activities, focus for today, accomplishments or important insights etc.*
-         
-         # Tasks
-         
-         #### New
-         *Note here the tasks which will meet you on this day and tag it with a date*
-         
-         #### Done Today
-         *Here will every tasks listed which are done today.*
-         ```tasks
-         # done today, from filename
-         done on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
-         ```
-         
-         #### Due Today 
-         *The due date is the specific date by which a task must be completed. It signifies a deadline for the task.* 
-         ```tasks
-         not done
-         is not recurring
-         # due today, from filename
-         due on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
-         hide due date
-         ```
-         
-         #### Scheduled Today
-         *The schedule date refers to when a task is planned to be worked on or started. This date does not necessarily indicate a deadline but rather a target date for when the task should be tackled.* 
-         ```tasks
-         not done
-         is not recurring
-         # scheduled today, from filename
-         scheduled on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
-         hide scheduled date
-         ```
-         
-         #### Recurring today
-         *A recurring task is a task that is automatically generated to repeat at regular intervals, such as daily, weekly, monthly, or yearly.* 
-         ```tasks
-         not done
-         is recurring
-         # happens today, from filename
-         happens on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
-         ```
-         
-         #### Overdue tasks
-         *Tasks that have a due date in the past but are still incomplete could be considered overdue. This term emphasizes that the task should have been completed by the specified date.*
-         
-         ```tasks
-         not done
-         # happens before today, from filename
-         happens before <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY MM DD") %>
-         hide edit button
-         ```
-         
-         #### Backlogged tasks
-         *These tasks are waiting to be adressed, their important enough so you don't want to forget them. But not that time spcific, that you have to do it until a specific time. Here I am also collection ideas which are waiting for the right timing.*
-         ```tasks
-         not done
-         no due date
-         no scheduled date
-         no start date
-         ```
+#### Backlogged tasks
+*These tasks are waiting to be adressed, their important enough so you don't want to forget them. But not that time spcific, that you have to do it until a specific time. Here I am also collection ideas which are waiting for the right timing.*
+```tasks
+not done
+no due date
+no scheduled date
+no start date
+```
+````
              
 ## Settings in the community plugins
    

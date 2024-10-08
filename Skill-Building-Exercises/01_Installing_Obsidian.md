@@ -1,4 +1,5 @@
 # Installing Obsidian and Creating Your First Vault
+(Duration approx. 5min)
 
 ## Download Obsidian
 

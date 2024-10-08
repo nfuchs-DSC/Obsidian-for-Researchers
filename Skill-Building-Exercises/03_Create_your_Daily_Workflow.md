@@ -135,6 +135,13 @@ no start date
 ## Check that everything is working
 *Now you finished all settings for your daily workflow. Check if everythings works quite well.* **Go to your vault and click on the left sidebar on the calendar icon (daily note). Then a note with the template should open with the today date.** *In the next manual there are some tips how you can use the daily note in your workflow.*
 
+## Change Log
+Insert the following text into your note 'CHANGELOG' and enter today's date.
+```markdown
+Installed community plugins Task, Templater and Dataview.
+The Daily Note now has a customized template.
+```
+
 ## Note
 There are documentations available for the *Community Plugins* and pre-installed *Core Plugins*. On these pages, you'll find all the features that come with each plugin. To reduce complexity, this guide only describes a small portion of the possibilities you have with the plugins. However, if you want to know more or have specific questions, you can read the documentations.
 

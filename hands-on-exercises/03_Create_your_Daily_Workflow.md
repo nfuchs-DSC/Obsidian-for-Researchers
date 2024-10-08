@@ -1,5 +1,5 @@
 # Your Daily Workflow
-(Duration approx. 15min)
+*(Duration approx. 15min)*
 
 *The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base. Here you can take notes, add new To-Dos, and automatically display To-Dos that you want or need to complete today. There are many ways to design the Daily Note. For guidance, I have created a minimalist template that primarily organizes To-Dos and can interconnect your knowledge. With a bit of programming experience or patience, you can customize the template to your liking.*
 

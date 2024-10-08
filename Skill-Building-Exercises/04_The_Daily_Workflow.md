@@ -1,5 +1,6 @@
 ### How to use your Daily Note
-(Duration approx. 30min)
+*(Duration approx. 30min)*
+
 With the template I proposed for a Daily Note, you can implement the following things in your daily workflow. Below, you will find scenarios for each point on how you can use the feature. Even if the scenarios do not reflect your workflow, you can adapt them or decide not to use them. It is important to find your own way and approach with your Daily Note and Obsidian in general. Try not to force yourself into a workflow that is not suited for you:
 
 1. The Daily Note will display **all the to-dos** you have planned for today. Whether you planned this task yesterday, last week, or five months ago, your Daily Note will automatically remind you of it

@@ -1,10 +1,11 @@
 # Your Daily Workflow
+(Duration approx. 15min)
 
 *The "Daily Note" is your hub where everything that happens in your day will be in one place and connected to your whole knowledge base. Here you can take notes, add new To-Dos, and automatically display To-Dos that you want or need to complete today. There are many ways to design the Daily Note. For guidance, I have created a minimalist template that primarily organizes To-Dos and can interconnect your knowledge. With a bit of programming experience or patience, you can customize the template to your liking.*
 
-*You can access the Daily note either by clicking on the calendar button in the left taskbar, or you can set it up in the settings so that the Daily note automatically opens when you open your Obsidian vault.*
+*You can access the Daily Note either by clicking on the calendar button in the left taskbar, or you can set it up in the settings so that the Daily Note automatically opens when you open your Obsidian vault.*
 
-*For our daily workflow, we need to add a few functions to our Obsidian Vault. We do this with plugins created by the Obsidian Community: The so-called community plugins*
+*For our daily workflow, we need to add a few functions to our Obsidian Vault. We do this with plugins created by the Obsidian Community: The so-called community plugins.*
 
 ## Communitiy Plugin
 *Community plugins in Obsidian are user-created extensions that enhance the functionality of the app beyond its core features. These plugins are developed by members of the Obsidian community, allowing users to customize and expand their note-taking experience to suit individual needs and workflows.*
@@ -23,7 +24,7 @@ While community plugins offer great flexibility and power, they can also pose po
 </details>
 
 <details>
-<summary>How to Check if Plugins are Dangerous</summary>
+<summary>How to Check whether a Plugin is Dangerous</summary>
 <br>
 To assess the safety and reliability of a community plugin, consider the following steps:
 
@@ -131,7 +132,7 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 4. **Settings** → go to **Daily notes** → set **New file location** to "DAILY NOTE" → set **Template file location** to "TEMPLATES/Template_Daily Note" (*This is the path to the template you just created.*)
 
 ## Check that everything is working
-*Now you finished all settings for your daily workflow. Check if everythings works quite well.* **Go to you vault and click on the left sidebar on the calendar icon (daily note). Then a note with the template should open with the today date.** *In the next manual there are some tips how you can use the daily note in your workflow.*
+*Now you finished all settings for your daily workflow. Check if everythings works quite well.* **Go to your vault and click on the left sidebar on the calendar icon (daily note). Then a note with the template should open with the today date.** *In the next manual there are some tips how you can use the daily note in your workflow.*
 
 ## Note
 There are documentations available for the *Community Plugins* and pre-installed *Core Plugins*. On these pages, you'll find all the features that come with each plugin. To reduce complexity, this guide only describes a small portion of the possibilities you have with the plugins. However, if you want to know more or have specific questions, you can read the documentations.

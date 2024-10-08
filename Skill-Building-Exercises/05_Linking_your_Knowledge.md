@@ -3,7 +3,7 @@
 *One of the most powerful features of Obsidian is the ability to link your notes. Obsidian allows users to create bi-directional links between notes, enabling a web of interconnected ideas. This feature facilitates easy navigation and retrieval of related information, making it ideal for building a personal knowledge base.*
 
 ### Linking to other notes
-*It is important to me that the note-taking system is as interoperable as possible. If you ever stop using Obsidian, you can use the .txt files in another app. If the new app also uses Markdown syntax, then your links will not be lost. However, you need to disable the Wikilink format for internal links and set it to Markdown format.*
+*I believe it is important for the note-taking system to be as interoperable as possible. If you ever stop using Obsidian, you can use the .txt files in another app. If the new app also uses Markdown syntax, then your links will not be lost. However, you need to disable the Wikilink format for internal links and set it to Markdown format.*
 
 **Settings** → **Files and links** → row 6, disable **Use [[Wikilinks]]** and enable **Automatically update internal links** *(It has nothing to do with interoperability, but since we are already here, we can do that as well.)*
 

@@ -1,5 +1,5 @@
 # Getting Started with Obsidian
-(Duration approx. 15min)
+*(Duration approx. 15min)*
 
 ## Change the Color of Your Vault
 

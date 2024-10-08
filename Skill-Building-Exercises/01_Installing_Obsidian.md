@@ -35,7 +35,7 @@
 1. When Obsidian opens for the first time, you'll see the vault selection screen.
 2. Click on "Create new vault".
 3. Choose a name for your vault (e.g., "My Knowledge Base").
-4. Select a location on your computer to store the vault.
+4. Select a location on your computer to store the vault. (Write down where you saved your vault. You will need it later.)
 5. Click "Create".
 
 ## Explore Your New Vault

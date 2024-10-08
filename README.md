@@ -15,7 +15,7 @@
 
 ### Hands-On Exercises
 - The exercises build on each other, especially 04 and 05.
-- **What you will learn**
+- **What you will learn:**
   - Installing Obsidian / Creating your first vault
   - Markdown Syntax
   - Installing Community Plugins

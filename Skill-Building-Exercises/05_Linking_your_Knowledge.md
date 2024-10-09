@@ -8,7 +8,8 @@
 
 **Settings** → **Files and links** → disable **Use [[Wikilinks]]** → enable **Automatically update internal links** *(It has nothing to do with interoperability, but since we are already here, we can do that as well.)*
 
-![Interoperability](https://github.com/user-attachments/assets/d98f61f6-54db-4a01-a764-bddacbdba7e2)
+![screenshoot_settings_interoperability](https://github.com/user-attachments/assets/8346e5ae-310c-4c26-934a-128b97c17b2c)
+
 
 
 

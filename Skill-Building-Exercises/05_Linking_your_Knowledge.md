@@ -36,3 +36,8 @@ Pets in Clothes: The research team found that one of the common issues with the 
 ```markdown
 [filename](file:///<absolute-path>)
 ```
+### Using Tags
+To link your knowledge quickly and easily, you can use tags. To do this, write '#word' in a note. When you click on the tag, all the notes in which you have used the tag will be displayed in the sidebar. 
+ - This might be useful if you have fixed topics that recur often in different notes and should be connected with each other. For example, if you are learning a new language, you can use it to tag new words that appear in various notes. You can easily write in your daily note without having to search for the right place for the vocabulary.
+ - It is not useful to interconnect all of your thoughts. The number of tags would become too large, and after a while, you would forget which tags you've used.
+ - However, with the Dataview plugin, which you installed in [03_Create_your_Daily_Workflow](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/main/Skill-Building-Exercises/03_Create_your_Daily_Workflow.md), you can display tags in a note. This feature is helpful for getting a better overview of your content.

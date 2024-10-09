@@ -10,7 +10,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 ![screenshot_create_a_note](https://github.com/user-attachments/assets/002fdb6c-8e07-4a77-b7e2-0e6a77eeb7af)
 
 
-Click on the icon to create a new note. Rename the note to "Markdown Syntax". Copy and add the following to this note:
+Click on the icon to create a new note. Rename the note to "Markdown Syntax". This note is your cheat sheet for learning Markdown syntax. Therefore, in this note in Obsidian, the raw, unformatted Markdown syntax is displayed. Copy and add the following to this note:
 
 ```markdown
 *Markdown is a lightweight markup language used to create formatted text using a plain-text editor. It was created by John Gruber in 2004 with the goal of making text easy to read and write, especially for web content. Markdown syntax is simple and intuitive, using punctuation characters to format text, such as asterisks for emphasis and pound signs for headings. It is not a replacement for HTML but rather a writing format that can be converted to HTML.*

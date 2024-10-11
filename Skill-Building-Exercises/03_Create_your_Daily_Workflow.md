@@ -56,7 +56,7 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 1. Create a folder "DAILY NOTES".
 2. Create a folder "TEMPLATE".
 3. Create a note "Template_Daily_Note" and drag and drop it into the TEMPLATE folder.
-4. Copy and paste the following in the "Template_Daily_Note". It saves automaticaly.
+4. Copy and paste the following in the "Template_Daily_Note". It saves automaticaly. (If you are familiar with the descriptions in the template on how to use it, you can delete them from the template.)
 
 ````markdown
 #### Date: <% tp.date.now("dddd Do MMMM YYYY") %>

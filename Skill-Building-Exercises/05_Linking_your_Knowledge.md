@@ -8,10 +8,7 @@
 
 **Settings** → **Files and links** → disable **Use [[Wikilinks]]** → enable **Automatically update internal links** *(It has nothing to do with interoperability, but since we are already here, we can do that as well.)*
 
-![screenshoot_settings_interoperability](https://github.com/user-attachments/assets/8346e5ae-310c-4c26-934a-128b97c17b2c)
-
-
-
+<img src="https://github.com/user-attachments/assets/8346e5ae-310c-4c26-934a-128b97c17b2c" height="300" alt="screenshoot_settings_interoperability">
 
 #### Exercise: Linking to other notes
 The following exercise is an example that demonstrates how you can use the internal linking function.
@@ -29,6 +26,15 @@ Pets in Clothes: The research team found that one of the common issues with the 
 ```
 6. **Create the note** "Ideas Collection Publication 3" by clicking the link.
 7. Again: **Expand the right sidebar** → **click on backlinks** *Now you can see all the places where you had ideas for your publication.*
+
+### Graph View
+*The graph view is a great tool for getting an overview of your linked notes. You can visualize your knowledge with just one click.*
+
+**Left sidebar** → **Click on graph view icon**
+
+<img src="https://github.com/user-attachments/assets/b8e94764-09e7-41ed-82c8-f8b3b56b8ce9" height="200" alt="sidebar_graphview">
+
+
 
 ### Linking a local file
 *It is also possible to write a link in a note in Obsidian that allows you to open a file from your computer. You need to insert the path to the file into the following link. You can find the path by right-clicking on the file and selecting "Copy Path".*

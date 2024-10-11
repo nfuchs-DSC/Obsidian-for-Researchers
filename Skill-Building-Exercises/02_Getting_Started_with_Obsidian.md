@@ -10,7 +10,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 ![screenshot_create_a_note](https://github.com/user-attachments/assets/002fdb6c-8e07-4a77-b7e2-0e6a77eeb7af)
 
 
-Click on the icon to create a new note. Rename the note to "Markdown Syntax". This note is your cheat sheet for learning Markdown syntax. Therefore, in this note in Obsidian, the raw, unformatted Markdown syntax is displayed. Copy and add the following to this note:
+*Click on the icon to create a new note. Rename the note to "Markdown Syntax". This note is your cheat sheet for learning Markdown syntax. Therefore, in this note in Obsidian, the raw, unformatted Markdown syntax is displayed. Copy and add the following to this note:*
 
 ```markdown
 *Markdown is a lightweight markup language used to create formatted text using a plain-text editor. It was created by John Gruber in 2004 with the goal of making text easy to read and write, especially for web content. Markdown syntax is simple and intuitive, using punctuation characters to format text, such as asterisks for emphasis and pound signs for headings. It is not a replacement for HTML but rather a writing format that can be converted to HTML.*
@@ -42,8 +42,8 @@ Create a folder and name it "ATTACHMENT".
 
 To adjust this, go to **Settings**, select **Files and Links** from the menu, and change the settings as shown in the image. 
 
-*Now, all your attachments will be automatically saved in this folder.*
+<img src="https://github.com/user-attachments/assets/72f1bd2c-6e50-446e-9bf1-0e13682d231b" height="100" alt="screenshot_attachment_folder_path">
 
-![screenshot_attachment_folder_path](https://github.com/user-attachments/assets/72f1bd2c-6e50-446e-9bf1-0e13682d231b)
+*Now, all your attachments will be automatically saved in this folder.*
 
 Check if it works by creating a note and inserting an image or a PDF document from your local computer into the note using drag and drop (or copy and paste). The image/PDF should now be saved in the 'ATTACHMENT' folder.

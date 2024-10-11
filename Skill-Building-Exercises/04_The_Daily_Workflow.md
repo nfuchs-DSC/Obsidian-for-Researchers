@@ -1,13 +1,13 @@
 ### How to use your Daily Note
 *(Duration approx. 30min)*
 
-With the template I proposed for a Daily Note, you can implement the following things in your daily workflow. Below, you will find scenarios for each point on how you can use the feature. Even if the scenarios do not reflect your workflow, you can adapt them or decide not to use them. It is important to find your own way and approach with your Daily Note and Obsidian in general. Try not to force yourself into a workflow that is not suited for you:
+The proposed Daily Note template can enhance your workflow by: 
 
-1. The Daily Note will display **all the to-dos** you have planned for today. Whether you planned this task yesterday, last week, or five months ago, your Daily Note will automatically remind you of it
+- **Displaying all to-dos:** Automatically reminds you of tasks planned for today, regardless of when they were set.
+- **Daily Log section:** Encourages brief reflections on daily achievements, challenges, and insights. Can be used for end-of-day reviews or setting daily focus.
+- **Promoting regular Obsidian use:** Provides a clear starting point of each day, increasing the likelihood of long-term Obsidian integration into your work routine.
 
-2. There is a section called **Daily Log**. When working mentally and on the computer, it can happen that the workday ends, and you may not know exactly what you achieved today, where the time went, and what the challenges or insights of the day were. In the Daily Log, you can write a brief reflection (one sentence or a few bullet points are sufficient) at the end of the day. What progress did you make today? What questions arose? What insights did you have? How did you spend your working time today? These can be guiding questions. You can also use the Daily Log at the beginning of the day to set the focus for today.
-
-3. The Daily Note can encourage you to **use Obsidian regularly** because when your vault automatically reminds you of to-dos, you don’t have to think in the morning about where to start or where you left off yesterday or last week. Your Daily Note gives you a starting point. If you have incorporated opening Obsidian into your morning routine, the chances of using Obsidian long-term increase. The best organizational system is of no use if you are not motivated to integrate it into your work routine.
+Remember, adapt these features to suit your personal workflow. The key is finding an approach that works best for you.
 
 ---
 
@@ -17,13 +17,17 @@ With the template I proposed for a Daily Note, you can implement the following t
 *If none of these scenarios resonate with you, take a moment to reflect on your daily workflows: What are typical scenarios in your daily work? How can the daily note help you?*
 
 #### 1. Your workday begins. You have a few moments before your first meeting to check your emails.
-1.1 You receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: 
+1.1 Open the daily note.
+
+1.2 You receive an email with a promising reference to a publication that's perfectly suited to your field. You don't have time to read the publication now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: 
 
 ```markdown
 - [ ] Check literature  [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/6248092)
 ```       
-An auto-suggest menu should automatically appear in the line, where you can select due date and then type or select today's date.
-   ![image](https://github.com/user-attachments/assets/ea26c016-44fe-46f6-9941-01d028cdc455) 
+An auto-suggest menu should automatically appear in the line, where you can select **due date** and then type or **select today's date**.
+
+<img src="https://github.com/user-attachments/assets/83aaeed1-9401-42df-9cd5-866824b4188b" height="200" alt="image">
+
    
 *Note: The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.*
 
@@ -31,35 +35,34 @@ An auto-suggest menu should automatically appear in the line, where you can sele
 [Title of Homepage)(URL). You have the option to change the title to better reflect the content of the link.*
 
 
-1.2 Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: 
+1.3 Your colleague will be on a business trip for the next few weeks and asks if you can water his office plants once a week. You like plants and agree. Since you're always in the office on Wednesdays, write under New: 
 
 ```markdown
 - [ ] Water Semi's plants
 ```         
-Again an auto-suggest menu should appear. If recurring is not provided in the auto-suggest menu, type *recurring* and it will appear. Choose how often the task should recur (every week) and then the start date (Wednesday). This way, the task will be displayed every Wednesday.
-    
+Again an auto-suggest menu should appear. If recurring is not provided in the auto-suggest menu, type *recurring* and it will appear. Choose **recurring every week on wednesday**
 
 #### 2. Your meeting begins.
 *Note: Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week.*
 
 2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under **New**: 
 ```markdown
-- [ ] Write email to cooperation partner, see [Template](Insert link to document in your team cloud) 
+- [ ] Write email to cooperation partner
 ```         
-Select due date and next Monday in the auto-suggest menu.
+Select **due date** and **next Monday** in the auto-suggest menu.
 
 2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **New** your idea and link it to a potential idea collection of the publication: 
 ```markdown
-- Introduction: sunflowers, interview, newspaper [[Ideas collection Publication 3]]
+- Introduction: sunflowers, interview, newspaper [[Ideas Collection Publication]]
 ```         
-A new function is used here. With double square brackets [[ ]], you can link one note to another. More on this will be covered in the next exercise.
+A new function is used here. With double square brackets [[ ]]. This way, you can both link notes together and create new notes. The link "Ideas Collection Publication" is in a lighter color than the other links. This means that the note for this title has not yet been created. Click on the link and a new note will be created. In the next task, you'll find more information about linking your knowledge and notes.
 
 ## Compare your daily note with this screenshot. 
 → Is it the same (you will have different dates)? Go to the next exercise. 
 
 → If not: find the mistake / ask for help.
 
+<img src="https://github.com/user-attachments/assets/ce623aa4-9ac4-45fb-9ae7-19f3bee63495" height="500" alt="image">
 
 
-![image](https://github.com/user-attachments/assets/2ce34f53-7adb-4196-8593-b53e636b4b56)
 

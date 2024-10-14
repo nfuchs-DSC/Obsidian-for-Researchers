@@ -9,10 +9,6 @@
 
 #### What role could Obsidian play in your daily workflow? Where could it support you?
 
-#### What strengths do you see in Obsidian?
-
-#### What weaknesses do you see in Obsidian?
-
 #### What additional features could be useful for you?
 
 #### To Do

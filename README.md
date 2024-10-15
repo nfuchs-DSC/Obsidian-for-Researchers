@@ -9,6 +9,9 @@
 
 - **Interoperability:** By ensuring that you’re not confined to a single note-taking application, you open yourself up to a world of possibilities. Obsidian's basic principle is that everything is saved in text files (txt.), which are designed for long-term accessibility, regardless of the software you use.
 
+### Workflow
+With the workflow provided in the guide, you can organize your daily tasks and have them automatically displayed on the day they are due. Additionally, you can organize all your notes within your Obsidian vault and link them together. You can set up a workflow that allows you to easily switch between different tasks without losing sight of the bigger picture. This gives you more capacity to focus on your research, as you no longer have to keep detailed organizational information in your head.
+
 ### Skill-Building Exercises
 - The exercises build on each other, especially 04 and 05.
 

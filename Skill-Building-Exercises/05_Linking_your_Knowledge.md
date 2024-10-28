@@ -26,7 +26,7 @@ The following exercise is an example that demonstrates how you can use the inter
 
 5. You have read the article and found some really interesting facts which might be useful for your publication. Copy the following in the note:
 ```markdown
-Pets in Clothes: The research team found that one of the common issues with the images collected for their dataset was pets wearing clothes. The article mentions that images of pets dressed up were often discarded, which implies that while some owners may enjoy dressing their pets, it complicates the task of accurately identifying their breed. Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/6248092) [[Ideas Collection Publication 3]]
+Pets in Clothes: The research team found that one of the common issues with the images collected for their dataset was pets wearing clothes. The article mentions that images of pets dressed up were often discarded, which implies that while some owners may enjoy dressing their pets, it complicates the task of accurately identifying their breed. Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/6248092) [[Idea Collection Publication]]
 ```
 6. **Go to the note** "Ideas Collection Publication 3" by clicking the link.
 7. Again: **Expand the right sidebar** → **click on backlinks** *Now you can see all the places where you had ideas for your publication.*

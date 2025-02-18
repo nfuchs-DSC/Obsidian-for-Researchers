@@ -7,8 +7,8 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 ## Set yourself up
 *You will see three columns in the standard settings: a few icons and the list of your created notes or folders on the left, the currently open note in the middle and the graph view on the right.*
-1. close the graph view (we will talk about this later)
-2. delete the note “Welcome” (right click on the note → delete)
+1. Close the graph view (we will talk about this later).
+2. Delete the note “Welcome” (right click on the note → delete).
 
 ## Create Your First Note about Markdown Syntax
 
@@ -35,9 +35,26 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 ## Create the Note "CHANGELOG"
 
-*In computer science, a document that is used to document changes in a script or code is often referred to as a "changelog". A changelog is a file that contains a chronological list of changes, improvements, bug fixes, and other modifications made to a project. It helps you track the development history and progress of your obsidian vault and prevents you from fixing a bug twice. Often, you may forget how you did it the first time.*
+*If you use Obsidian regularly, you will change some settings, encounter problems that you want to fix or implement a new feature. For all of this, it is very helpful to know what you did, how you fixed a problem and what features need each other. I can highly recommend documenting this process. Then you can easily go back in time or quickly fix a problem you already had.
+In computer science, a document that is used to document changes in a script or code is often referred to as a "changelog". A changelog is a file that contains a chronological list of changes, improvements, bug fixes, and other modifications made to a project.*
 - Create a note and name it "CHANGELOG".
-- Insert the location ('path') here where you saved your Obsidian vault, e.g. C:\Users\name\Desktop\ObsidianLocal\MyVault
+- Make your first entry about where you have saved your Obsidian Vault on your local device. You will probably need the path to the files again and again.
+- Insert the location ('path') here where you saved your Obsidian vault, e.g. Path Obsidian Vault "C:\Users\name\Desktop\ObsidianLocal\MyVault"
+
+## Link a local folder or a local file in the Obsidian note.
+
+*You can create a link in your note with which you can open a local folder or a local file. 
+We will create a link from the path you just inserted. Insert the following characters:*
+
+``[Path Obsidian Vault](<C:\Users\name\Desktop\ObsidianLocal\MyVault>)``
+
+**The structure of a link is:**
+``[Link Name](<Absolute path to your folder or file>)``
+
+**Tips:** 
+- You must remove the double quotation marks.
+- The file or folder name must not contain any spaces. Insert a _ instead.
+      
 
 ## Create the Folder "ATTACHMENT"
 

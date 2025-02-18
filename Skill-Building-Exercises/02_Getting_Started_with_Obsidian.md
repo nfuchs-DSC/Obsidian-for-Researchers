@@ -5,6 +5,11 @@
 
 Go to **Settings** → **Appearance** → First line **Base color scheme**. Change it into "dark", "light" or "adapt to system".
 
+## Set yourself up
+*You will see three columns in the standard settings: a few icons and the list of your created notes or folders on the left, the currently open note in the middle and the graph view on the right.*
+1. close the graph view (we will talk about this later)
+2. delete the note “Welcome” (right click on the note → delete)
+
 ## Create Your First Note about Markdown Syntax
 
 ![screenshot_create_a_note](https://github.com/user-attachments/assets/002fdb6c-8e07-4a77-b7e2-0e6a77eeb7af)

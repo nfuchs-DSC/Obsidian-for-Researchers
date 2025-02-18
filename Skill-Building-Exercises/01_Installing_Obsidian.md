@@ -34,9 +34,10 @@
 *In Obsidian, a **vault** is a dedicated folder that serves as your personal knowledge base. It is where all your notes, documents, and files are stored in a structured way. Each vault is independent and can contain multiple notes organized in a hierarchy of folders and subfolders.*
 1. When Obsidian opens for the first time, you'll see the vault selection screen.
 2. Click on "Create new vault".
-3. Choose a name for your vault (e.g., "My Knowledge Base").
-4. Select a location on your computer to store the vault. (Write down where you saved your vault. You will need it later.)
-5. Click "Create".
+3. Choose a name for your vault (e.g., "My_Knowledge_Base").
+   **Important:** The Vault name must not contain spaces. Insert a _ instead.
+5. Select a location on your computer to store the vault. (Write down where you saved your vault. You will need it later.)
+6. Click "Create".
 
 ## Explore Your New Vault
 

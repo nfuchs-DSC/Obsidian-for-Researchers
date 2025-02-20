@@ -41,15 +41,14 @@
 
 ## Explore Your New Vault
 
-1. Once your vault is created, you'll see the Obsidian interface.
-2. The left sidebar shows your file explorer.
-3. The main area is where you'll edit your notes.
-4. To create your first note, click the "New note" button (usually a document icon with a '+' sign) in the left sidebar.
-5. Start typing in the main area to add content to your note.
+*You will see three columns in the standard settings: a few icons and the list of your created notes or folders on the left, the currently open note in the middle and the graph view on the right.*
+
+1. Close the graph view (we will talk about this later).
+2. Delete the note “Welcome” (right click on the note → delete).
 
 ## Save Your Work
 
-- Obsidian automatically saves your notes as you type.
+- Obsidian automatically saves your notes as you type on your local device.
 - Your notes are stored as Markdown (.md) files in the folder you selected for your vault.
 
-Congratulations! You've now installed Obsidian and created your first vault. Explore the various features and start organizing your knowledge!
+**Congratulations! You've now installed Obsidian and created your first vault.**

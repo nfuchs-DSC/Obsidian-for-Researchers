@@ -1,4 +1,5 @@
 # Your Daily Note
+*(Duration approx. 15min)*
 
 *The proposed Daily Note template can enhance your workflow by:*
 

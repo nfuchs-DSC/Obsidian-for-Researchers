@@ -40,40 +40,23 @@
 	*Now you can see the citation key for each of your reference.*
 
 5. **Document all settings in your CHANGELOG**
+
 ## Step 2: Settings in Obsidian
 
-1. **Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
-
-2.**Open Zotero Integration Settings → Enable "Open the created note after import"**
-
-3. **Open Zotero Integration Settings → set the "Note Import Location" to "ZEKA/SOURCE_NOTES"
+1. **Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "SOURCE_NOTES" and "ZETTEL"
+2. **Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
+3. **Open Zotero Integration Settings → Enable "Open the created note after import"**
+4. **Open Zotero Integration Settings → set the "Note Import Location" to "ZEKA/SOURCE_NOTES"**
 
 *This part is important for the Zettelkasten (see next exercise):*
 
-3. **Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "SOURCE_NOTES" and "ZETTEL" → set the Note Import Location in the Zotero Integration plugin to "ZEKA/SOURCE_NOTES"
+
 
 4. **Document all settings in your CHANGELOG**
-## Step 3: Settings in Obsidian and Zotero
 
-*Synchronize the citation format*
+## Step 3: Set Up Templates for Zettel and Source Notes
 
-1. *Zotero:* <br>
-	**Edit → Settings → Cite → Select your Citation Format and remembere it (e.g. American Political Science Association)**
-
-2. *Obsidian:* <br>
-	**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
-
-	**Import Formats → Add Import Format** <br>
-		**Name:** Add Source Notes <br>
-		**Output Path:** ZEKA/SOURCE_NOTES/{{citekey}}.md <br>
-		**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
-		**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
-		**Bibliography Style:** Select the same citation format like before <br>
-
-3. **Document all settings in your CHANGELOG**
-## Step 4: Zettelkasten Set Up
-
-**Zotero Template:**
+**Source Note Template:**
 
 1. *In Obsidian:* <br>
 	**Add in Folder BACKEND/TEMPLATES** new note "Zotero_Template" and copy the following template in it (or use/build your own):
@@ -131,4 +114,24 @@ tags:
 ### Link
 
 ```
+
+## Step 4: Settings in Obsidian and Zotero for Literature Import
+
+*Synchronize the citation format*
+
+1. *Zotero:* <br>
+	**Edit → Settings → Cite → Select your Citation Format and remember it (e.g. American Political Science Association)**
+
+2. *Obsidian:* <br>
+	**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
+
+	**Import Formats → Add Import Format** <br>
+		**Name:** Add Source Notes <br>
+		**Output Path:** ZEKA/SOURCE_NOTES/{{citekey}}.md <br>
+		**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
+		**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
+		**Bibliography Style:** Select the same citation format like before <br>
+
+3. **Document all settings in your CHANGELOG**
+
 

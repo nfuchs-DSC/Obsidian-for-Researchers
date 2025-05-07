@@ -8,7 +8,7 @@
 
 *After lunch your back in your office. At lunch colleague told you about his cat and suddenly you got an idea for your article.*
 
-1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (windows) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space" 
+1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (on Windows; or open command palette with `Ctrl+P` and type `Templater: Open insert template modal`) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space"  
 
 **Note:** In most cases, the Windows hotkeys cannot be used for MacOS. You can set these up manually: Settings → Hotkeys → search for “Insert Template” → press alt + e (or Option + e on Mac)
 
